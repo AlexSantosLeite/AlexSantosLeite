@@ -2,7 +2,7 @@
 
 ### Sobre
 
-🚀 Apaixonado por Tecnologia | FullStack em Formação | Python Enthusiast 🐍
+🚀 Apaixonado por Tecnologia | FullStack em Formação | Python 🐍
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Senac
 🌐 Explorando o mundo FullStack pela DevMedia
