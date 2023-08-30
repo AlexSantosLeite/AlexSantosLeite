@@ -4,8 +4,8 @@
 
 🚀 Apaixonado por Tecnologia | FullStack em Formação | Python 🐍
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no Senac
-🌐 Explorando o mundo FullStack pela DevMedia
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no Senac <br>
+🌐 Explorando o mundo FullStack pela DevMedia <br>
 🐍 Transformando ideias em código com Python
 
 💻 Atualmente, aprimorando minhas habilidades em arquitetura de software, resolução de problemas e desenvolvimento web.
