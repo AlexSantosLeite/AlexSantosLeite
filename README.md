@@ -14,7 +14,7 @@
 
 #DesenvolvimentoDeSistemas #FullStack #Python
 
-### Redes Sociais e WhatsApp
+### Redes Sociais, WhatsApp e E-mail
 [![LindedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-santos-leite/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alex.s.leitee/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/6H7T6BYXE5EDA1) [![LindedIn](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alex.s.leite@hotmail.com)
 
 
