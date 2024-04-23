@@ -46,6 +46,11 @@
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
+###
+
+![AlexSantos Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSantosLeite&langs_count=8)
+
+![AlexSantos GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSantosLeite&show_icons=true&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexSantosLeite/AlexSantosLeite/output/github-contribution-grid-snake-dark.svg">
@@ -53,8 +58,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AlexSantosLeite/AlexSantosLeite/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-###
-
-![AlexSantos GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSantosLeite&show_icons=true&theme=tokyonight)
-
-![AlexSantos Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSantosLeite&langs_count=8)
