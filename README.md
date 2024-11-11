@@ -2,7 +2,7 @@
 
 ### Sobre
 
-🚀 Apaixonado por Tecnologia | FullStack em Formação | Python 🐍
+🚀 Apaixonado por Tecnologia | CyberSecurity em Formação | Python 🐍
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Senac <br>
 🌐 Explorando o mundo FullStack pela DevMedia <br>
