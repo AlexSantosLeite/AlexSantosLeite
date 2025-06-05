@@ -18,7 +18,7 @@
 
 ### Redes Sociais, WhatsApp e E-mail
 
-  <a href="https://www.linkedin.com/in/alex-santos-leite/">
+  <a href="https://www.linkedin.com/in/alex-santos-leite/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/techgameralex/">
