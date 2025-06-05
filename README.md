@@ -18,7 +18,21 @@
 
 ### Redes Sociais, WhatsApp e E-mail
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-santos-leite/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/techgameralex/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+5511949207386) [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:alex.s.leite@hotmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/alex-santos-leite/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/techgameralex/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://wa.me/+5511949207386">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:alex.s.leite@hotmail.com">
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+</p>
+
 
 ---
 
