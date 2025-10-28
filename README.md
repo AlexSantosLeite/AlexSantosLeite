@@ -1,5 +1,10 @@
 ### Olá eu sou o Alex Santos 🔥👋
 
+
+<a href="https://tryhackme.com/p/koldan" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/koldan.png" alt="Meu perfil TryHackMe">
+</a>
+
 ### Sobre
 
 🚀 Apaixonado por Tecnologia | CyberSecurity em Formação | Python 🐍
@@ -71,6 +76,4 @@
 </picture>
 <br><br>
 
-<a href="https://tryhackme.com/p/koldan" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/koldan.png" alt="Meu perfil TryHackMe">
-</a>
+
