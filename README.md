@@ -71,5 +71,6 @@
 </picture>
 <br><br>
 
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3893362" style='border:none;'></iframe
+<a href="https://tryhackme.com/p/koldan" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/koldan.png" alt="Meu perfil TryHackMe">
+</a>
